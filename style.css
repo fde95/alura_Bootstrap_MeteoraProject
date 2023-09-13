@@ -1,0 +1,30 @@
+*{
+    font-family: 'Inter', sans-serif;
+}
+
+.texto-menor{
+    font-size: 14px;
+}
+.divs-facilidades{
+    width: 325px;
+}
+.div-novidades{
+    width: 325px;
+}
+
+.botao-roxo{
+    background-color: #9353FF;
+}
+.cor-verde{
+    color: #DAFF01;
+}
+.alinhamento-texto{
+    top: 40%;
+}
+
+@media(min-width: 768px) {
+
+    .div-novidades {
+        width: 696px;
+    }
+}
